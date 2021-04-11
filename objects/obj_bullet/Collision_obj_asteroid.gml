@@ -3,6 +3,8 @@
 score += 10;
 
 instance_destroy();
+var sound = choose(hit1, hit2, hit3, hit4);
+audio_play_sound(sound, 2, false);
 
 with(other){
 	instance_destroy();
