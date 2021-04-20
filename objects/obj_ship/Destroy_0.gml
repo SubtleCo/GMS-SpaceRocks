@@ -1,5 +1,5 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description when ship dies
+
 lives -= 1;
 instance_destroy();
 audio_play_sound(death, 2, false);
