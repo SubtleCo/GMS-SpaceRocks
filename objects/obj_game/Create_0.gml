@@ -4,3 +4,12 @@ score = 0;
 lives = 3;
 
 draw_set_font(fnt_text);
+
+
+// place a numerical index on factions, and present them in the global scope with enum
+
+enum factions {
+	neutral,
+	ally,
+	enemy
+}
