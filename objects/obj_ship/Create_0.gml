@@ -3,3 +3,9 @@
 event_inherited();
 
 bulletSpd = 6;
+
+guns = -1;
+invincible = true;
+
+alarm[1] = 3 * room_speed;
+
