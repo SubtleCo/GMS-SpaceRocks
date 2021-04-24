@@ -102,6 +102,9 @@ function create_bullet(_dir, _spd, _faction){
 			
 		case powerups.laser:
 		
+			var inst = instance_create_layer(x,y,"Instances", obj_laser);
+			initialize_bullet(_dir, _spd, _faction, inst);
+		
 			break;
 			
 		default:

@@ -5,7 +5,7 @@
 	 
 	 with(inst) {
 					direction = _dir;
-					speed = _spd;
+					if(object_index == obj_bullet) speed = _spd;
 					faction = _faction;
 					creator = _creator;
 		

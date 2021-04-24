@@ -41,6 +41,7 @@
     {"id":{"name":"create_bullet","path":"scripts/create_bullet/create_bullet.yy",},"order":1,},
     {"id":{"name":"obj_brute","path":"objects/obj_brute/obj_brute.yy",},"order":3,},
     {"id":{"name":"death","path":"sounds/death/death.yy",},"order":6,},
+    {"id":{"name":"obj_laser","path":"objects/obj_laser/obj_laser.yy",},"order":15,},
     {"id":{"name":"obj_debris","path":"objects/obj_debris/obj_debris.yy",},"order":3,},
     {"id":{"name":"spr_enemy_brute","path":"sprites/spr_enemy_brute/spr_enemy_brute.yy",},"order":9,},
     {"id":{"name":"spawn_off_camera","path":"scripts/spawn_off_camera/spawn_off_camera.yy",},"order":0,},
