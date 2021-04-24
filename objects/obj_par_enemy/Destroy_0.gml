@@ -15,3 +15,5 @@ switch(object_index){
 if(irandom_range(0,2) == 0){
 	instance_create_layer(x,y, "Instances", obj_powerup)
 }
+
+global.cameraShake = 4;

@@ -8,6 +8,8 @@ target = obj_ship;
 global.cameraWidth = 500;
 global.cameraHeight = 500;
 
+global.cameraShake = 0;
+
 view_enabled = true;
 view_visible[0] = true;
 
